@@ -1,0 +1,11 @@
+1)ouvre Matlab
+2) ouvre le dossier 'Bra_Manipulateur_Matlab' dans matlab
+3) ouvre le fichier de programme 'braaaaaaa_DataFile1.m'
+4)run le fichier de programme 'braaaaaaa_DataFile1.m'
+4) ouvre le fichier de simscape 'braaaaaaasimmm2.slx '
+5) simulier le fichier des block
+En cas d'une ralenti de mouvement fait :
+1) appui sur simulation
+2)appui sur 'pacing option'
+3)pick 'Enable pacing to slox down simulation'
+4)run 
